@@ -33,7 +33,7 @@
 					<suiteXmlFile>src/test/java/testng.xml</suiteXmlFile>
 				    </suiteXmlFiles>
 				    <systemPropertyVariables>
-				      <testng.dtd.http>false</testng.dtd.http>
+				      <testng.dtd.http>true</testng.dtd.http>
 				    </systemPropertyVariables>
 				</configuration>
             </plugin>
